@@ -1,1 +1,3 @@
 
+s = "hello"
+print(s)
